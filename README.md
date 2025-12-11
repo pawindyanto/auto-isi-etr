@@ -73,4 +73,4 @@ Jika ingin menjalankan script ini di komputer lain tanpa menginstall Python:
 Aplikasi ini dibuat untuk tujuan edukasi dan efisiensi kerja. Gunakan dengan bijak. Penulis tidak bertanggung jawab atas penggunaan yang menyalahi aturan aplikasi target.
 
 ---
-*Created with ❤️ by [Nama Kamu]*
+*Created with ❤️ by [Marg]*
