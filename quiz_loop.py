@@ -7,7 +7,7 @@ import time
 # --- 1. SETTING & BUKA BROWSER ---
 print("Membuka Chrome...")
 options = uc.ChromeOptions()
-driver = uc.Chrome(options=options, version_main=142)
+driver = uc.Chrome(options=options)
 driver.maximize_window()
 
 driver.get("https://app.badilag.net/etr")
